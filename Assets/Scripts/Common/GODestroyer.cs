@@ -11,4 +11,7 @@ public class GODestroyer : MonoBehaviour
         if (transform.position.x < minX)
             Destroy(gameObject);
     }
+
+
+    // 이건 마스터 브랜치에 올려햘 할내용
 }
