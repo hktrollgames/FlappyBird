@@ -14,4 +14,5 @@ public class GODestroyer : MonoBehaviour
 
 
     // 이건 5월 20일에 강의할 내용
+    // 이건 마스터 브랜치에 올려햘 할내용
 }
