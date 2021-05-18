@@ -11,7 +11,7 @@ public class ChangeTextureOffset : MonoBehaviour
         material = GetComponent<Renderer>().material;
     }
 
-
+    // 커밋이랑 푸시 동시에
     void Update()
     {
         var offset = material.mainTextureOffset;
