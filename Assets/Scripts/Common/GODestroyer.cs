@@ -11,7 +11,7 @@ public class GODestroyer : MonoBehaviour
         if (transform.position.x < minX)
             Destroy(gameObject);
     }
-
+    // 이건 5월 21일에 강의할 내용
 
     // 이건 5월 20일에 강의할 내용
     // 이건 마스터 브랜치에 올려햘 할내용
