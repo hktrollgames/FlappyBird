@@ -12,6 +12,7 @@ public class ChangeTextureOffset : MonoBehaviour
     }
 
     // 커밋이랑 푸시 동시에
+    // 이건 올려야하는거
     void Update()
     {
         var offset = material.mainTextureOffset;
